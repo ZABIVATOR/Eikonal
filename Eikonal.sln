@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eikonal", "Eikonal\Eikonal.csproj", "{2EF97324-A097-4FB5-A88D-EFE76C281457}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CGA", "CGA\CGA.csproj", "{67159876-4B1A-481A-980C-061A2C69B19E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EF97324-A097-4FB5-A88D-EFE76C281457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF97324-A097-4FB5-A88D-EFE76C281457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF97324-A097-4FB5-A88D-EFE76C281457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF97324-A097-4FB5-A88D-EFE76C281457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67159876-4B1A-481A-980C-061A2C69B19E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67159876-4B1A-481A-980C-061A2C69B19E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67159876-4B1A-481A-980C-061A2C69B19E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67159876-4B1A-481A-980C-061A2C69B19E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {814A1344-3C57-47AC-A7A5-43D99E724837}
+	EndGlobalSection
+EndGlobal
